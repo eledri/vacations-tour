@@ -1,4 +1,4 @@
-# vacations-tour
+# Vacations-tour
 
 A Fullstack project with Restfull service API in backend and react app in frontend
 inculde high level security protection in backend (user,password,JWT token, hashing)
