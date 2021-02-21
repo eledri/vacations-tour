@@ -17,5 +17,8 @@ in the admin inteface the admin user can add new vacation, remove vacation, edit
 
 this app include Socket.io for updating in real time the user vacations interface.
 
+# Hosted in Heroku:
+https://vacations-tour-eledri.herokuapp.com/
+
 
 
